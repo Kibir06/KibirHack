@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <link rel="stylesheet" href="style.css"> </head>
+	<link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,900&amp;subset=latin-ext" rel="stylesheet">
+
+<body>
+    <section>
+    <div class="home">
+        <div class="photo">
+		<div class="desc">
+		<div class="cdesc">
+		Kibir Official
+		</div>
+		</div>
+		</div>
+        <div class="content">
+            <nav class="menu">
+			<ul>
+			<li><a href="index.php"></a></li>
+			<li><a href=""></a></li>
+			<li><a href=""></a></li>
+			<li><a href=""></a></li>
+			</ul>
+			</nav>
+			<div class="cpadding">
+			<div class="box">
+			<h1>Yakında Sizlerleyiz</h1>
+			<span class="text">
+			..
+			</span>
+			<div class="signature"></div>
+			</div>
+
+			<div class="sbox">
+			<div class="buttons">
+			<a href=""><span class="button"><i class="fa fa-facebook" aria-hidden="true"></i> </span></a>
+			<a href=""><span class="button"><i class="fa fa-download" aria-hidden="true"></i> </span></a>
+			</div>
+			<div class="social">
+			<a href=""><i class="" aria-hidden="true"></i></a>
+			<a href=""><i class="" aria-hidden="true"></i></a>
+			<a href=""><i class="" aria-hidden="true"></i></a>
+			<a href=""><i class="" aria-hidden="true"></i></a>
+			<a href=""><i class="" aria-hidden="true"></i></a>
+
+			</div>
+			</div>
+
+			<div class="box">
+			<span class="text">
+				<div class="row"><span class="info1">Yakında</span><span class="info2">Yakında</span></div>
+				<div class="row"><span class="info1">Yakında</span><span class="info2">Yakında</span></div>
+				<div class="row"><span class="info1">Yakında</span><span class="info2">Yakında</span></div>
+				<div class="row"><span class="info1">Yakında</span><span class="info2">Yakında</span></div>
+				<div class="row"><span class="info1">Yakında</span><span class="info2">Yakında</span></div>
+				<div class="row"><span class="info1">Yakında</span><span class="info2">Yakında</span></div>
+			</span>
+			</div>
+
+        </div>
+        </div>
+    </div></section>
+</body>
+
+</html>
